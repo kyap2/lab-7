@@ -1,2 +1,2 @@
 # lab-7
-Lab 7 Engagement Responsive Design
+Kyle Yap Lab 7 Engagement Responsive Design
